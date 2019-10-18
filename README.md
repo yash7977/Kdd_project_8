@@ -9,8 +9,17 @@
 # Core Technical Concepts/Inspiration
 
 ### - Application of the CRISP-DM Process:
+**1. Business/Research Understanding Phase -** *In this phase, we have explored various resources on the internet to learn about the challenges and applications of the social media data for data mining. We did our research on how the social media data can be used to uncover knowledge in various domains like branding and marketing, crime and law enforcement, crisis monitoring and management, as well as public and personalized health management, etc. *
+**2. Data Understanding Phase -** *In this phase, we will make observations by looking at the data and checking of the relationship among the variables, potential independent and dependent variables, continuous variables, flag variables, categorical varaibles, mean, median and standard deviation in the data fetaures.*
+**3. Data Preparation Phase -** *In this phase, we will deal with obsolete/redundant fields, missing values, outliers and make the data useable to feed as an input to the data mining models. Thus minimizing GIGO (Garbage In - Garbage Out)*
+**4. Modeling Phase -** *we will fit different data mining models on the preprocessed dataset, check the results and try to fine tune the models to achieve better performance.*
+**5. Evaluation Phase -** *We will try to fit the dataset on various data mining models and evaluate their performance by implementing concepts like Cross-validation, Confusion matrix, etc. If the model performance is good and the results are as per the business understanding requirement, we will deploy, else we will repeat the step 1 to 5 repeatedly till we achieve the desired results.*
+**6. Deployment Phase -** *In this phase, we will deploy the model so that the intended users can incorporate our product for their business requirements.*
 
 ### - Domain Knowledge (document sources):
+[DOMAIN-SPECIFIC USE CASES FOR KNOWLEDGE-ENABLED SOCIAL MEDIA ANALYSIS](http://www.knoesis.org/node/2895)
+
+[Social Media Domain Analysis (SoMeDoA)](https://pdfs.semanticscholar.org/10cc/18164991ce56ef151cb70d80a8ccff016b49.pdf)
 
 ### - Data Understanding and EDA:(Yash)
 Data Understanding: Social media data has a broad term that encompasses many diverse types of data. Any type of information can be subjected to data analytics techniques to get insight that can be used to improve things. 
