@@ -1,9 +1,21 @@
 # Project Name/Intro: Digvijay
 ### - Project Name: Kdd_project_8
-### - Project Introduction: Social Media Data Set
-### - Team Introduction:
+### - Project Introduction:
+Social media and social networking sites are online platforms where people can connect with their real-life family, friends, and colleagues, and build new relations with others who share similar interests. The most popular English social media sites in 2019 are Twitter, Facebook, and Reddit.Thus our aim is to handle the social media related dataset by using classification,regression,performing Sentiment analysis and using various machine learning algorithm on the same.We have selected the social media dataset because it can have huge variety of subdomains ,multiple attributes,large no of data collection and much more.
 
-# Data and Source description: Digvijay
+### - Team Introduction:
+Aniruddha Sudhindra Shirahatti,Chandrakanth Rajesh,Digvijay Gole, Krishna Vishwanatham ,Yash Bonde.We are having common intrest in pursuing specialization in the field of DataScience.We as an individual were planning to work on the social media domain thus we came together as a group to perform the same.
+
+# Data and Source description:-
+-Social media analytics is the practice of gathering data from social media websites and analyzing that data using social media analytics
+tools to make business decisions.
+-The most common use of social media analytics is to mine customer sentiment to support marketing and customer service activities.
+-The first step in a social media dataset analysis is to determine for which  goals the data that is gathered and analyzed will benefit. Typical objectives include classification of the choices made by social media profile, performing sentiment analysis on the profile, getting feedback on topics,products and services, and improving public opinion for a particular topic.More advanced types of social media analysis involve sentiment analytics.
+-This practice involves sophisticated natural-language-processing machine learning algorithms parsing the text in a person's social media post about a company to understand the meaning behind that person's statement.
+-These algorithms can create a quantified score of the public's feelings toward a company based on social media interactions and give reports to management on how well the company interacts with customers.
+-There are a number of types of social media analytics tools for analyzing unstructured data found in tweets and Facebook posts. 
+-In addition to text analysis, many enterprise-level social media analytics tools will harvest and store the data. 
+-As more social media analytics rely on machine learning, popular open platforms like R, Python and TensorFlow serve as social media analytics tools.
 
 
 # Core Technical Concepts/Inspiration
@@ -107,3 +119,4 @@ Our next steps include:
 
 # Contact
 Aniruddha Sudhindra Shirahatti - ashiraha@uncc.edu
+Digvijay Gole-dgole@uncc.edu
