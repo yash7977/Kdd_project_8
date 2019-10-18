@@ -112,12 +112,12 @@ The common problem which everyone can face is that for unbalanced social media d
 of the instances in one class, the simplest classifiers will have high accuracies of at least 90%.
 
 We can use different evaluation techniques like:
-Accuracy
-Confusion matrix
-F1 score
-Precision-Recall or PR curve
-ROC (Receiver Operating Characteristics) curve
-AOC and ROC curves*
+•Accuracy
+•Confusion matrix
+•F1 score
+•Precision-Recall or PR curve
+•ROC (Receiver Operating Characteristics) curve
+•AOC and ROC curves*
 
 ### - Conclusion: krishna
 
