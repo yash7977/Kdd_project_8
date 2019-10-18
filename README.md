@@ -126,4 +126,5 @@ Our next steps include:
 
 # Contact
 Aniruddha Sudhindra Shirahatti - ashiraha@uncc.edu
-Digvijay Gole-dgole@uncc.edu
+
+Digvijay Gole - dgole@uncc.edu
