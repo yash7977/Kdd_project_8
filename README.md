@@ -135,6 +135,8 @@ The number of correct and incorrect predictions are summarized with count values
 The confusion matrix shows the ways in which the classification model is confused when it makes the predictions.
 It gives us insight not only into the errors being made by a classifier but more importantly the types of errors that are being made So that we can remove them easily.*
 
+**F1 Score:**  *F1 Score is necessary when we want to seek a balance between Precision and Recall. So, the difference between F1 Score and Accuracy is what we have previously seen that accuracy can be largely contributed by a large number of True Negatives which in most social media data circumstances, we do not focus on much whereas False Negative and False Positive usually has business costs (tangible & intangible) thus F1 Score might be a better measure to use if we need to seek a balance between Precision and Recall and there is an uneven class distribution (large number of Actual Negatives).*
+
 ### - Conclusion: krishna
 
 
