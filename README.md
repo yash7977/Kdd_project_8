@@ -130,6 +130,11 @@ it is simply a ratio of correctly predicted observation to the total observation
 
 *Accuracy = TP+TN/TP+FP+FN+TN*
 
+**Confusion Matrix:** *The confusion matrix is the summary of prediction results on a classification problem.
+The number of correct and incorrect predictions are summarized with count values and are broken down by each class. This is the key to the confusion matrix.
+The confusion matrix shows the ways in which the classification model is confused when it makes the predictions.
+It gives us insight not only into the errors being made by a classifier but more importantly the types of errors that are being made So that we can remove them easily.*
+
 ### - Conclusion: krishna
 
 
