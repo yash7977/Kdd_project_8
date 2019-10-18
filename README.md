@@ -106,7 +106,8 @@ The KNN algorithm is very simple and was an accurate model based on our tests. N
 This will give us an independent final check on the accuracy of the best model. It is valuable to keep a validation set just in case you made a slip during training, such as overfitting to the training set or a data leak. Both will result in an overly optimistic result.
 
 
-### - Evaluation: Krishna **Social media data like facebook, Twitter and other blogs is increasing day by day. After understanding the sentiments of the social media data. We need to mine knowledge and capture the ideas from the dataset. In this process of capturing the insights from the data, we need to evaluate the results at each datamining phase which is a challenging task.
+### - Evaluation: Krishna 
+*Social media data like facebook, Twitter and other blogs is increasing day by day. After understanding the sentiments of the social media data. We need to mine knowledge and capture the ideas from the dataset. In this process of capturing the insights from the data, we need to evaluate the results at each datamining phase which is a challenging task.
 The common problem which everyone can face is that for unbalanced social media data streams with, for example, 90%
 of the instances in one class, the simplest classifiers will have high accuracies of at least 90%.
 
@@ -116,7 +117,7 @@ Confusion matrix
 F1 score
 Precision-Recall or PR curve
 ROC (Receiver Operating Characteristics) curve
-AOC and ROC curves**
+AOC and ROC curves*
 
 ### - Conclusion: krishna
 
