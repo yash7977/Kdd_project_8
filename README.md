@@ -1,14 +1,14 @@
-
+# Project Name/Intro: Digvijay
 ### - Project Name: Kdd_project_8
 ### - Project Introduction:
-Social media and social networking sites are online platforms where people can connect with their real-life family, friends, and colleagues, and build new relations with others who share similar interests. The most popular English social media sites in 2019 are Twitter, Facebook, and Reddit.Thus our aim is to handle the social media related dataset by using classification,regression,performing Sentiment analysis and using various machine learning algorithm on the same.We have selected the social media dataset because it can have huge variety of subdomains ,multiple attributes,large no of data collection and much more.
+*Social media and social networking sites are online platforms where people can connect with their real-life family, friends, and colleagues, and build new relations with others who share similar interests. The most popular English social media sites in 2019 are Twitter, Facebook, and Reddit. Our aim is to handle the social media related dataset by using classification, regression, performing Sentiment analysis and using various machine learning algorithm on the same. We have selected the social media dataset because it can have huge variety of subdomains, multiple attributes, large number of data points and much more.*
 
 ### - Team Introduction:
-Aniruddha Sudhindra Shirahatti,Chandrakanth Rajesh,Digvijay Gole, Krishna Vishwanatham ,Yash Bonde.We are having common intrest in pursuing specialization in the field of DataScience.We as an individual were planning to work on the social media domain thus we came together as a group to perform the same.
+*Aniruddha Sudhindra Shirahatti, Chandrakanth Rajesh, Digvijay Gole, Krishna Vishwanatham, Yash Bonde.* 
+*We are having common interest in pursuing specialization in the field of Data Science. We as a group are planning to work on social media dataset to implement the data mining concepts.*
 
 # Data and Source description:-
--Social media analytics is the practice of gathering data from social media websites and analyzing that data using social media analytics
-tools to make business decisions.
+-Social media analytics is the practice of gathering data from social media websites and analyzing that data to make business decisions.
 
 -The most common use of social media analytics is to mine customer sentiment to support marketing and customer service activities.
 
@@ -25,7 +25,7 @@ tools to make business decisions.
 -As more social media analytics rely on machine learning, popular open platforms like R, Python and TensorFlow serve as social media analytics tools.
 
 
-# Core Technical Concepts/Inspiration
+# Core Technical Concepts
 
 ### - Application of the CRISP-DM Process:
 **1. Business/Research Understanding Phase -** *In this phase, we have explored various resources on the internet to learn about the challenges and applications of the social media data for data mining. We did our research on how the social media data can be used to uncover knowledge in various domains like branding and marketing, crime and law enforcement, crisis monitoring and management, as well as public and personalized health management, etc.*
