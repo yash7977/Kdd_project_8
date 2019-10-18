@@ -125,6 +125,11 @@ of the instances in one class, the simplest classifiers will have high accuracie
 
 *•AOC and ROC curves*
 
+**Accuracy:** *The Accuracy is the most commonly used metric to judge a data model and is actually not a clear indicator of the performance. The worse happens when classes are imbalanced.
+it is simply a ratio of correctly predicted observation to the total observations. One may think that, if we have high accuracy then our model is best. Yes, accuracy is a great measure but only when you have symmetric datasets where values of false positive and false negatives are almost same. Therefore, you have to look at other parameters to evaluate the performance of your model. For our model, we have got 0.803 which means our model is approx. 80% accurate.*
+
+*Accuracy = TP+TN/TP+FP+FN+TN*
+
 ### - Conclusion: krishna
 
 
