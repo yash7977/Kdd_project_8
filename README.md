@@ -9,12 +9,19 @@ Aniruddha Sudhindra Shirahatti,Chandrakanth Rajesh,Digvijay Gole, Krishna Vishwa
 # Data and Source description:-
 -Social media analytics is the practice of gathering data from social media websites and analyzing that data using social media analytics
 tools to make business decisions.
+
 -The most common use of social media analytics is to mine customer sentiment to support marketing and customer service activities.
+
 -The first step in a social media dataset analysis is to determine for which  goals the data that is gathered and analyzed will benefit. Typical objectives include classification of the choices made by social media profile, performing sentiment analysis on the profile, getting feedback on topics,products and services, and improving public opinion for a particular topic.More advanced types of social media analysis involve sentiment analytics.
+
 -This practice involves sophisticated natural-language-processing machine learning algorithms parsing the text in a person's social media post about a company to understand the meaning behind that person's statement.
+
 -These algorithms can create a quantified score of the public's feelings toward a company based on social media interactions and give reports to management on how well the company interacts with customers.
+
 -There are a number of types of social media analytics tools for analyzing unstructured data found in tweets and Facebook posts. 
+
 -In addition to text analysis, many enterprise-level social media analytics tools will harvest and store the data. 
+
 -As more social media analytics rely on machine learning, popular open platforms like R, Python and TensorFlow serve as social media analytics tools.
 
 
