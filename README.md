@@ -111,13 +111,17 @@ This will give us an independent final check on the accuracy of the best model. 
 The common problem which everyone can face is that for unbalanced social media data streams with, for example, 90%
 of the instances in one class, the simplest classifiers will have high accuracies of at least 90%.*
 
-*We can use different evaluation techniques like:
-•Accuracy
+*We can use different evaluation techniques like:*
+*•Accuracy*
 
-•Confusion matrix
+*•Confusion matrix*
+
 •F1 score
+
 •Precision-Recall or PR curve
+
 •ROC (Receiver Operating Characteristics) curve
+
 •AOC and ROC curves*
 
 ### - Conclusion: krishna
