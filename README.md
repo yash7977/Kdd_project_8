@@ -1,4 +1,4 @@
-# Project Name/Intro: Digvijay
+
 ### - Project Name: Kdd_project_8
 ### - Project Introduction:
 Social media and social networking sites are online platforms where people can connect with their real-life family, friends, and colleagues, and build new relations with others who share similar interests. The most popular English social media sites in 2019 are Twitter, Facebook, and Reddit.Thus our aim is to handle the social media related dataset by using classification,regression,performing Sentiment analysis and using various machine learning algorithm on the same.We have selected the social media dataset because it can have huge variety of subdomains ,multiple attributes,large no of data collection and much more.
