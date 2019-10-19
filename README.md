@@ -143,7 +143,7 @@ A system with the high recall but having low precision returns many results, but
 
 ### - Conclusion:
 
-        *We will perform prediction and sentimental analysis on the social media dataset.*
+*We will perform prediction and sentimental analysis on the social media dataset.*
 
 
 # Contributors:
