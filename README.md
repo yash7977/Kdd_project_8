@@ -143,7 +143,7 @@ A system with the high recall but having low precision returns many results, but
 
 ### - Conclusion:
 
-        *In this deliverable, we have decided to work on the social media dataset. We will apply datamining techniques to reveal the patterns and derive insights from the online social media data. We will then have idea to implement Machine learning algorithms to receive and analyze the online social media data and perform evaluation of the results to know the accuracy level of the output. We are expecting some challenges like dealing with social media metrics, increasing signal to noise.*
+        *In this deliverable, we have decided to work on the social media dataset. We will apply datamining techniques to reveal the patterns and derive insights from the online social media data. We will then implement Machine learning algorithms to receive and analyze the online social media data and perform evaluation of the results to know the accuracy level of the output. We are expecting some challenges like dealing with social media metrics, increasing signal to noise.*
 
 
 # Contributors:
